@@ -45,7 +45,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,react,flutter,dart,mysql,js,html,css,bootstrap,tailwind,git,github,vscode,androidstudio" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,react,flutter,dart,mysql,js,html,css,bootstrap,tailwind,git,github,vscode,androidstudio,fastapi" alt="Skills" />
 </p>
 <p align="center">
   <strong>Also familiar with:</strong> <code>CodeIgniter 3</code>, <code>SQL Server</code>
